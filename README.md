@@ -10,19 +10,19 @@ Aqui abaix te deixat el ultim exercici 5:
 ## Exercise 5
 TRACER:
 
-![](./Screenshoots/Tracer.png)
-![](./Screenshoots/TracerConsole.png)
+![1](./Screenshoots/Tracer.png)
+![2](./Screenshoots/TracerConsole.png)
 
 BREAKPOINT USERINTPUT:
 
-![](./Screenshoots/WatchUserInput.png)
-![](./Screenshoots/BreakpointUserInput.png)
+![3](./Screenshoots/WatchUserInput.png)
+![4](./Screenshoots/BreakpointUserInput.png)
 
 BREAKPOINT IF CONDITION
 
-![](./Screenshoots/BreakpointIf.png)
-![](./Screenshoots/WatchIf.png)
+![5](./Screenshoots/BreakpointIf.png)
+![6](./Screenshoots/WatchIf.png)
 
 Para hacer un breakpoint en una linea has de poner la bolita roja en la parte izquierda del IDE en la linea que quieres debugar
 
-![](./Screenshoots/Bolita.png)
+![7](./Screenshoots/Bolita.png)
